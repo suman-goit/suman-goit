@@ -5,7 +5,11 @@
   <a href="https://github.com/suman-goit">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://engineer-os-nothing-bro.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
+
 <img width="1600" height="700" alt="Image" src="https://github.com/user-attachments/assets/14ef5406-584d-44b9-b6bc-55ce0fc4237c" />
 <h1 align="center">Hi there 👋, I'm Suman</h1>
 <h3 align="center">A passionate Web/App Developer & Data Science enthusiast building things that matter</h3>
