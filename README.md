@@ -1,4 +1,4 @@
-
+<img width="1600" height="700" alt="Image" src="https://github.com/user-attachments/assets/14ef5406-584d-44b9-b6bc-55ce0fc4237c" />
 <h1 align="center">Hi there 👋, I'm Suman</h1>
 <h3 align="center">A passionate Web/App Developer & Data Science enthusiast building things that matter</h3>
 
