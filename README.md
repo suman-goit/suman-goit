@@ -26,7 +26,7 @@
 
 - 🔭 I'm currently building projects across **web/app development** and **data science**
 - 🌱 Always learning new tools in ML, cloud, and modern web frameworks
-- 💡 I enjoy solving real-world problems with clean, efficient code
+- 🧠 Practicing Data Structures & Algorithms (DSA) and solving problems on Codeforces
 - ⚡ Fun fact: I love turning messy data into meaningful insights
 
 ---
