@@ -84,18 +84,18 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=suman-goit&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suman-goit&layout=compact&theme=radical&hide_border=true" />
-</p>
+\<p align="center">
+  \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=suman-goit&show\_icons=true&theme=radical&hide\_border=true&count\_private=true](https://github-readme-stats.vercel.app/api?username=suman-goit\&show_icons=true\&theme=radical\&hide_border=true\&count_private=true)" />
+  \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=suman-goit&layout=compact&theme=radical&hide\_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=suman-goit\&layout=compact\&theme=radical\&hide_border=true)" />
+\</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=suman-goit&theme=radical&hide_border=true" />
-</p>
+\<p align="center">
+  \<img src="[https://github-readme-streak-stats.herokuapp.com/?user=suman-goit&theme=radical&hide\_border=true](https://github-readme-streak-stats.herokuapp.com/?user=suman-goit\&theme=radical\&hide_border=true)" />
+\</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suman-goit&theme=react-dark&hide_border=true" />
-</p>
+\<p align="center">
+  \<img src="[https://github-readme-activity-graph.vercel.app/graph?username=suman-goit&theme=react-dark&hide\_border=true](https://github-readme-activity-graph.vercel.app/graph?username=suman-goit\&theme=react-dark\&hide_border=true)" />
+\</p> the first two is not working
 
 ---
 
