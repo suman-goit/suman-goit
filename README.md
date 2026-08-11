@@ -95,7 +95,7 @@
 
 \<p align="center">
   \<img src="[https://github-readme-activity-graph.vercel.app/graph?username=suman-goit&theme=react-dark&hide\_border=true](https://github-readme-activity-graph.vercel.app/graph?username=suman-goit\&theme=react-dark\&hide_border=true)" />
-\</p> the first two is not working
+\</p>
 
 ---
 
