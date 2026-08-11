@@ -94,8 +94,6 @@
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=suman-goit&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suman-goit&layout=compact&theme=radical&hide_border=true" />
