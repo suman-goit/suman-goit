@@ -2,9 +2,7 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=wills6781@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-<a href="https://codeforces.com/profile/sumangoit">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-</a>
+
 
 
   <a href="https://engineer-os-nothing-bro.vercel.app/">
@@ -80,17 +78,6 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-
-### 🧩 Competitive Programming
-<p>
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sumangoit" />
-</p>
----
----
 
 ### 📊 GitHub Stats
 
