@@ -4,8 +4,6 @@
   </a>
 
 </p>
-
-<img width="1903" height="916" alt="Image" src="https://github.com/user-attachments/assets/b8213ad3-f7bc-45e7-b98b-a37bca3c085a" />
 <h1 align="center">Hi there 👋, I'm Suman</h1>
 <h3 align="center">A passionate Web/App Developer & Data Science enthusiast building things that matter</h3>
 
