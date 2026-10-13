@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C4CC&center=true&vCenter=true&width=600&lines=Full+Stack+Web+%26+App+Developer;Data+Science+%26+Machine+Learning+Enthusiast;Turning+Data+Into+Decisions;Building+Clean%2C+Scalable+Software" alt="Typing SVG" />
 </p>
----
+
 <h2 align="center">🧩 LeetCode Progress</h2>
 
 <p align="center">
@@ -30,7 +30,7 @@
     />
   </a>
 </p>
----
+
 
 ### 🚀 About Me
 
