@@ -10,11 +10,26 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C4CC&center=true&vCenter=true&width=600&lines=Full+Stack+Web+%26+App+Developer;Data+Science+%26+Machine+Learning+Enthusiast;Turning+Data+Into+Decisions;Building+Clean%2C+Scalable+Software" alt="Typing SVG" />
 </p>
-
 ---
-### 🏆 LeetCode Stats
+<h2 align="center">🧩 LeetCode Progress</h2>
 
-[![LeetCode Stats](https://crackalgo.in/api/widget/stats?leetcode=sumangoit)](https://leetcode.com/u/sumangoit/)
+<p align="center">
+  <a href="https://leetcode.com/u/sumangoit/">
+    <img
+      src="https://leetcard.jacoblin.cool/sumangoit?theme=dark"
+      alt="LeetCode Statistics"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/sumangoit/">
+    <img
+      src="https://img.shields.io/badge/LeetCode-View%20Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"
+      alt="Visit LeetCode Profile"
+    />
+  </a>
+</p>
 ---
 
 ### 🚀 About Me
