@@ -11,7 +11,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C4CC&center=true&vCenter=true&width=600&lines=Full+Stack+Web+%26+App+Developer;Data+Science+%26+Machine+Learning+Enthusiast;Turning+Data+Into+Decisions;Building+Clean%2C+Scalable+Software" alt="Typing SVG" />
 </p>
 
+---
+### 🏆 LeetCode Stats
 
+[![LeetCode Stats](https://crackalgo.in/api/widget/stats?leetcode=sumangoit)](https://leetcode.com/u/sumangoit/)
 ---
 
 ### 🚀 About Me
@@ -22,6 +25,7 @@
 - ⚡ Fun fact: I love turning messy data into meaningful insights
 
 ---
+
 
 ### 🛠️ Tech Stack
 
@@ -71,21 +75,6 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-
-### 📊 GitHub Stats
-
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suman-goit&theme=react-dark" />
-</p>
-
-
-### 🏆 Top Contributed Repos
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=suman-goit&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
 
 ---
 
