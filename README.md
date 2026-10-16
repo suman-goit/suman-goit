@@ -24,30 +24,6 @@ I'm a Computer Engineering student at **Purwanchal Campus (IOE), Tribhuvan Unive
 - 🧠 **Practicing:** Data Structures & Algorithms through regular problem solving
 - 🌱 **Learning:** Docker, deployment and cloud (Render, Vercel)
 - 📫 **Reach me:** [wills6781@gmail.com](mailto:wills6781@gmail.com)
-
----
-
-## 🚀 Featured Projects
-
-### 🥗 Nepali Diet Recommendation System
-A full-stack web app that generates personalized Nepali meal plans. Users sign up, complete a health assessment, and receive a multi-day plan built from authentic Nepali foods and recipes.
-
-- **Backend:** Django REST Framework API with token authentication
-- **ML:** decision-tree model for medical suitability (hypertension and diabetes), plus rule-based filtering and PuLP portion optimization
-- **Frontend:** React (Vite) client with auth, assessment, meal plan and history pages
-- **Deployed:** frontend on Vercel, backend on Render
-
-`Python` `Django` `DRF` `React` `Vite` `scikit-learn` `PuLP` `PostgreSQL`
-
-[🔗 Live Demo](https://nepali-diet-recommendation-system.vercel.app/) · [💻 Source Code](https://github.com/suman-goit/Nepali-Diet-Recommendation-System)
-
-> The backend runs on a free tier, so the first request after a quiet period can take up to a minute to wake up.
-
-### 🎙️ English-to-Nepali AI Voice Translator
-An AI web app that translates English text or speech into Nepali by chaining **OpenAI Whisper** (speech-to-text) with an **mT5** model fine-tuned from `google/mt5-base`. Supports audio upload and in-browser recording, with CPU/CUDA inference through PyTorch.
-
-`Python` `PyTorch` `Whisper` `mT5` `Hugging Face` `Streamlit`
-
 ---
 
 ## 🛠️ Tech Stack
@@ -111,7 +87,30 @@ An AI web app that translates English text or speech into Nepali by chaining **O
 </p>
 
 ---
+---
 
+## 🚀 Featured Projects
+
+### 🥗 Nepali Diet Recommendation System
+A full-stack web app that generates personalized Nepali meal plans. Users sign up, complete a health assessment, and receive a multi-day plan built from authentic Nepali foods and recipes.
+
+- **Backend:** Django REST Framework API with token authentication
+- **ML:** decision-tree model for medical suitability (hypertension and diabetes), plus rule-based filtering and PuLP portion optimization
+- **Frontend:** React (Vite) client with auth, assessment, meal plan and history pages
+- **Deployed:** frontend on Vercel, backend on Render
+
+`Python` `Django` `DRF` `React` `Vite` `scikit-learn` `PuLP` `PostgreSQL`
+
+[🔗 Live Demo](https://nepali-diet-recommendation-system.vercel.app/) · [💻 Source Code](https://github.com/suman-goit/Nepali-Diet-Recommendation-System)
+
+> The backend runs on a free tier, so the first request after a quiet period can take up to a minute to wake up.
+
+### 🎙️ English-to-Nepali AI Voice Translator
+An AI web app that translates English text or speech into Nepali by chaining **OpenAI Whisper** (speech-to-text) with an **mT5** model fine-tuned from `google/mt5-base`. Supports audio upload and in-browser recording, with CPU/CUDA inference through PyTorch.
+
+`Python` `PyTorch` `Whisper` `mT5` `Hugging Face` `Streamlit`
+
+---
 ## 📊 GitHub Stats
 
 <p align="center">
