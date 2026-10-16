@@ -101,9 +101,7 @@ A full-stack web app that generates personalized Nepali meal plans. Users sign u
 
 `Python` `Django` `DRF` `React` `Vite` `scikit-learn` `PuLP` `PostgreSQL`
 
-[🔗 Live Demo](https://nepali-diet-recommendation-system.vercel.app/) · [💻 Source Code](https://github.com/suman-goit/Nepali-Diet-Recommendation-System)
-
-> The backend runs on a free tier, so the first request after a quiet period can take up to a minute to wake up.
+[🔗 Live Demo](https://nepali-diet-recommendation-system.vercel.app/) ·
 
 ### 🎙️ English-to-Nepali AI Voice Translator
 An AI web app that translates English text or speech into Nepali by chaining **OpenAI Whisper** (speech-to-text) with an **mT5** model fine-tuned from `google/mt5-base`. Supports audio upload and in-browser recording, with CPU/CUDA inference through PyTorch.
