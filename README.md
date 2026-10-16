@@ -31,7 +31,16 @@
   </a>
 </p>
 
+---
 
+## 🚀 My Projects
+
+### 🥗 Nepali Diet Recommendation System
+A web application that provides personalized diet recommendations based on user information.
+
+🔗 **Live Demo:** [Nepali Diet Recommendation System](https://nepali-diet-recommendation-system.vercel.app/)
+
+---
 ### 🚀 About Me
 
 - 🔭 I'm currently building projects across **web/app development** and **data science**
